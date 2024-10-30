@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Add the blocks and find the total to help Lily build the tower of the castle.<br><img width='55%' src='./images/1.jpg'>",
+        "options": [
+            "40",
+            "42",
+            "45",
+            "50"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Add the given blocks to complete the castle gate.<br><img width='55%' src='./images/2.jpg'>",
+        "options": [
+            "34",
+            "35",
+            "36",
+            "38"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Help Lily find the total blocks used for the watchtower.<br><img width='55%' src='./images/3.jpg'>",
+        "options": [
+            "27",
+            "28",
+            "30",
+            "29"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Add the blocks for Max's bridge.<br><img width='55%' src='./images/4.jpg'>",
+        "options": [
+            "56",
+            "55",
+            "58",
+            "57"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Help Lily with the castle's roof by adding the blocks.<br><img width='55%' src='./images/5.jpg'>",
+        "options": [
+            "67",
+            "65",
+            "66",
+            "69"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Add the blocks to build the secret passage by finding the total.<br><img width='55%' src='./images/6.jpg'>",
+        "options": [
+            "77",
+            "74",
+            "78",
+            "79"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Help Max complete the castle wall by adding the blocks.<br><img width='55%' src='./images/7.jpg'>",
+        "options": [
+            "28",
+            "26",
+            "24",
+            "22"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Add the blocks for the hidden treasure room of the castle.<br><img width='55%' src='./images/8.jpg'>",
+        "options": [
+            "78",
+            "76",
+            "80",
+            "72"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Help Lily finish the castle's window by adding the blocks.<br><img width='55%' src='./images/9.jpg'>",
+        "options": [
+            "44",
+            "48",
+            "47",
+            "49"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Add the blocks to complete Max's tower flag.<br><img width='55%' src='./images/10.jpg'>",
+        "options": [
+            "56",
+            "53",
+            "59",
+            "55"
+        ],
+        "correct": 2
+    }
+]
